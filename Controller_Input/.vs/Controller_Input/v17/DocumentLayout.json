@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Quang Huy Chu\\OneDrive - Japan Advanced Institute of Science and Technology\\Documents\\JAIST\\Robocon\\Source_code\\Controller_Input\\",
+  "WorkspaceRootPath": "D:\\Project\\learn_Cplusplus\\Controller_Input\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E41F50D1-C4E9-4AEA-B528-63DE7AE245DB}|Controller_Input.vcxproj|C:\\Users\\Quang Huy Chu\\OneDrive - Japan Advanced Institute of Science and Technology\\Documents\\JAIST\\Robocon\\Source_code\\Controller_Input\\Controller_Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E41F50D1-C4E9-4AEA-B528-63DE7AE245DB}|Controller_Input.vcxproj|D:\\Project\\learn_Cplusplus\\Controller_Input\\Controller_Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E41F50D1-C4E9-4AEA-B528-63DE7AE245DB}|Controller_Input.vcxproj|solutionrelative:Controller_Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Controller_Input.cpp",
-              "DocumentMoniker": "C:\\Users\\Quang Huy Chu\\OneDrive - Japan Advanced Institute of Science and Technology\\Documents\\JAIST\\Robocon\\Source_code\\Controller_Input\\Controller_Input.cpp",
+              "DocumentMoniker": "D:\\Project\\learn_Cplusplus\\Controller_Input\\Controller_Input.cpp",
               "RelativeDocumentMoniker": "Controller_Input.cpp",
-              "ToolTip": "C:\\Users\\Quang Huy Chu\\OneDrive - Japan Advanced Institute of Science and Technology\\Documents\\JAIST\\Robocon\\Source_code\\Controller_Input\\Controller_Input.cpp",
+              "ToolTip": "D:\\Project\\learn_Cplusplus\\Controller_Input\\Controller_Input.cpp",
               "RelativeToolTip": "Controller_Input.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
